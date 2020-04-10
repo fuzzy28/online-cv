@@ -16,19 +16,17 @@ sidebar:
     phone: +65 91331729
     linkedin: ruelosjoel
     github: fuzzy28
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    stack-overflow: 3644938/ruelos-joel
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Filipino
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Basic
 
     interests:
       - item: Climbing
@@ -39,6 +37,27 @@ sidebar:
 
       - item: Cooking
         link:
+    skills:
+        title: Skills &amp; Proficiency
+
+        toolset:
+          - name: Python & Django
+            level: 98%
+
+          - name: Javascript & jQuery
+            level: 98%
+
+          - name: Angular
+            level: 98%
+
+          - name: HTML5 & CSS
+            level: 95%
+
+          - name: Ruby on Rails
+            level: 85%
+
+          - name: Sketch & Photoshop
+            level: 60%
 
 career-profile:
     title: Career Profile
@@ -159,27 +178,6 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
