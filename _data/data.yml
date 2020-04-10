@@ -52,7 +52,7 @@ career-profile:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: Python & Django
+      - name: Python & Djangox
         level: 98%
 
       - name: Javascript & jQuery
