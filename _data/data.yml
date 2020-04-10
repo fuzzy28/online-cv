@@ -51,7 +51,6 @@ career-profile:
       
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: Python & Django
         level: 98%
